@@ -3,7 +3,7 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&layout=donut&show_icons=true&title_color=C0CA33" />
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent&title_color=C0CA33" />
   </div>
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&hide_progress=true&title_color=C0CA33" />
