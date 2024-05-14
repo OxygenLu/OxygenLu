@@ -3,10 +3,10 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&text_color=7E57C2&title_color=AFB42B&icon_color=E91E63" />
+    <img src="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&title_color=7E57C2&text_color=AFB42B&icon_color=E91E63" />
   </div>
   <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&hide_progress=true&title_color=AFB42B" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&hide_progress=true&title_color=7E57C2" />
   </div>
 </div>
 <!--
