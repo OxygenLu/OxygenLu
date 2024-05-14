@@ -1,20 +1,24 @@
 ### Hi there 👋
 ### ✨OxygenLu Zone✨
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&hide_progress=true)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&title_color=C0CA33&icon_color=EC407A"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&title_color=C0CA33" />
-</picture>
-
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&hide_progress=true" />
+  </div>
+  <div>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&title_color=C0CA33&icon_color=EC407A"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&title_color=C0CA33" />
+    </picture>
+  </div>
+</div>
 <!--
 **OxygenLu/OxygenLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
