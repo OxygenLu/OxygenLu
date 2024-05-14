@@ -1,6 +1,8 @@
 ### Hi there 👋
 ### ✨OxygenLu Zone✨
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&hide_progress=true)
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&theme=dark"
@@ -12,7 +14,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&title_color=C0CA33" />
 </picture>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&hide_progress=true)
+
 <!--
 **OxygenLu/OxygenLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
