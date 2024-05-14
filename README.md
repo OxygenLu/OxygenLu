@@ -1,22 +1,14 @@
 ### Hi there 👋
 ### ✨OxygenLu Zone✨
 
-<div class="stats-container">
-  <div class="stats-card">
+<div style="display: flex; justify-content: space-between;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OxygenLu&hide_progress=true" />
   </div>
-  <div class="stats-card">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=OxygenLu&show_icons=true&title_color=C0CA33" />
   </div>
 </div>
-
-.stats-container {
-  display: flex;
-}
-
-.stats-card {
-  flex: 1;
-}
 <!--
 **OxygenLu/OxygenLu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
